@@ -7,10 +7,10 @@ Web and NodeJS Developer
 I have been coding for the past 4 years and I have found my passion with NodeJS. I started with NodeJS by creating Discord bots and did some cool projects on the way.
 
 * 🌍  I'm based in The Netherlands
-* 🖥️  See my portfolio at [My portfolio](http://aoniq.nl)
+* 🖥️  See my portfolio at [My portfolio](http://jeffreyv.nl)
 * ✉️  You can contact me at [jeffrey@hostvio.net](mailto:jeffrey@hostvio.net)
-* 🚀  I'm currently working on [Several Projects](http://aoniq.nl/projects.html)
-* 🧠  I'm learning React
+* 🚀  I'm currently working on [Several Projects](http://jeffreyv.nl/projects)
+* 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on Interesting projects with Javascript/NodeJS involved
 
 ### Skills
